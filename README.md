@@ -26,7 +26,7 @@
 
 
 # day1 lesson
-
+- comments are learnt
 - Hello world file is to print hello world
 - Move.bat is able to copy.bat into new dir
 - moveback.bat is able to move back the copy.bat to origin place
