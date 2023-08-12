@@ -23,3 +23,12 @@
 - type: Displays the contents of a text file.
 - ver: Displays the Windows version
 - vol: Displays the volume label and serial number of a specified disk.
+
+
+# day1 lesson
+
+- Hello world file is to print hello world
+- Move.bat is able to copy.bat into new dir
+- moveback.bat is able to move back the copy.bat to origin place
+- copydirtomyfile.bat is able to copy about the dir to myfile.txt
+- sortfile.bat is able to sort the texts inside the sort.txt
