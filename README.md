@@ -19,6 +19,7 @@
 - rename: Renames a file or files.
 - rmdir: Removes a directory.
 - start: Starts a separate window to run a specified program or command.
+- set: set is used to assign value to variables
 - time: Displays or sets the system time.
 - type: Displays the contents of a text file.
 - ver: Displays the Windows version
@@ -31,4 +32,13 @@
 - Move.bat is able to copy.bat into new dir
 - moveback.bat is able to move back the copy.bat to origin place
 - copydirtomyfile.bat is able to copy about the dir to myfile.txt
+- > is used to create file
+- command > filename.txt
 - sortfile.bat is able to sort the texts inside the sort.txt
+- var twotypes
+- echo %1 is used to get values from the command line agument
+- set variablename = hello world
+- %% is used to print values
+- echo %variablename%
+- /A is used to assign numerical values
+- set /A value1=20
