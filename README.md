@@ -1,7 +1,7 @@
 # BatchScriptLearnings
 
 
-# basic comments learn
+# basic commends learn
 - cd: Changes the current directory.
 - cls: Clears the screen.
 - copy: Copies one or more files to another location.
@@ -26,7 +26,7 @@
 
 
 # day1 lesson (12-08-2023)
-- comments are learnt
+- commends are learnt
 - Hello world file is to print hello world
 - Move.bat is able to copy.bat into new dir
 - moveback.bat is able to move back the copy.bat to origin place
