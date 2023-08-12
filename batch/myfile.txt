@@ -1,0 +1,35 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 82A0-4F5B
+
+ Directory of C:\Users\IsacDevaAbishek\Desktop\batch
+
+12-08-2023  15:46    <DIR>          .
+12-08-2023  15:46    <DIR>          ..
+27-06-2023  15:36         6,530,037 1INTRO.mp4
+27-06-2023  15:37        23,116,917 ARRAY12.mp4
+12-08-2023  15:22    <DIR>          batchLearnings
+27-06-2023  15:37        17,269,137 COMMANDS4.mp4
+27-06-2023  15:36         8,256,140 CREATIONANDEXECUTION3.mp4
+27-06-2023  15:37        52,938,453 DEMOOFCOMMAND5.mp4
+12-08-2023  14:59                49 first.bat
+27-06-2023  15:37        25,139,220 FUNCTIONS13.mp4
+27-06-2023  15:47        25,921,146 IFELSE9.mp4
+27-06-2023  15:37        22,330,315 IOFILES14.mp4
+27-06-2023  15:37        11,840,107 LOOPS11.mp4
+12-08-2023  15:20                67 move.bat
+12-08-2023  15:18               149 moveback.bat
+12-08-2023  15:46                 0 myfile.txt
+12-08-2023  15:20    <DIR>          newdir
+27-06-2023  15:37        43,154,229 OPERATORS10.mp4
+27-06-2023  15:36         7,950,554 OVERVIEW2.mp4
+27-06-2023  15:37        27,029,598 PROBLEMS.mp4
+27-06-2023  15:37        22,054,672 PROCESSANDLAGGING16.mp4
+27-06-2023  15:50        27,973,666 REGISTRY15 (1).mp4
+12-08-2023  15:10                 0 sec.bat
+12-08-2023  15:32                86 sort.txt
+27-06-2023  15:47        34,645,066 STRINGSDEM08.mp4
+27-06-2023  15:37        31,848,253 SYNTAXADNVAR6.mp4
+27-06-2023  15:37        14,396,931 VARSCOPANDSTRING7.mp4
+12-08-2023  15:46               121 withecho.bat
+              24 File(s)    402,394,913 bytes
+               4 Dir(s)  149,513,166,848 bytes free
