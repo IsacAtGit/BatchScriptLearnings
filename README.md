@@ -25,7 +25,7 @@
 - vol: Displays the volume label and serial number of a specified disk.
 
 
-# day1 lesson
+# day1 lesson (12-08-2023)
 - comments are learnt
 - Hello world file is to print hello world
 - Move.bat is able to copy.bat into new dir
