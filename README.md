@@ -32,7 +32,7 @@
 - Move.bat is able to copy.bat into new dir
 - moveback.bat is able to move back the copy.bat to origin place
 - copydirtomyfile.bat is able to copy about the dir to myfile.txt
-- > is used to create file
+- '>' is used to create file
 - command > filename.txt
 - sortfile.bat is able to sort the texts inside the sort.txt
 - var twotypes
