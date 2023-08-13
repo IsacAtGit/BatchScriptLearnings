@@ -52,3 +52,6 @@
 - string trimming (left,right,mid) ~from,to(str:~5,4)
 - removing and replacing
 - if else
+- Syntax error faced(give space before the open paranthesis )
+- goto statement
+- syntax error faced (give space after goto ex got: )
