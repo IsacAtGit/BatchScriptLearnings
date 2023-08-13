@@ -42,3 +42,13 @@
 - echo %variablename%
 - /A is used to assign numerical values
 - set /A value1=20
+
+
+# day2 lesson (13-08-2023)
+- global variables
+- local variable
+- string concate
+- string interpolation(concating string with numbers)
+- string trimming (left,right,mid) ~from,to(str:~5,4)
+- removing and replacing
+- if else
