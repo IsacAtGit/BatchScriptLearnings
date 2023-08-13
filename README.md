@@ -54,4 +54,4 @@
 - if else
 - Syntax error faced(give space before the open paranthesis )
 - goto statement
-- syntax error faced (give space after goto ex got: )
+- syntax error faced (give space after goto ex goto: )
