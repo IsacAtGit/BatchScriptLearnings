@@ -55,3 +55,12 @@
 - Syntax error faced(give space before the open paranthesis )
 - goto statement
 - syntax error faced (give space after goto ex goto: )
+
+# day3 lesson (17-08-2023)
+- for loop
+- %%i indicate loop variable
+- in (0,1,10)  start,increment or decrement,end
+- need space between do and (
+do (
+
+)
