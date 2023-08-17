@@ -61,6 +61,4 @@
 - %%i indicate loop variable
 - in (0,1,10)  start,increment or decrement,end
 - need space between do and (
-do (
 
-)
