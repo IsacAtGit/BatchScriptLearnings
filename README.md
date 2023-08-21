@@ -65,3 +65,6 @@
 - DEFINED Keyword check is there any values declared next to defined is exits or not if exits true
 - setlocal enabledelayedexpansion: This command enables delayed variable expansion. In Windows batch scripts, when variables are enclosed in percent signs (%variable%), their values are expanded at the beginning of the line, not during execution. Delayed expansion allows variables enclosed in exclamation marks (!variable!) to be expanded at the time of execution within a block of code (such as within a loop).
 
+# day4 lesson (21-08-2023)
+- registry
+- file handling
