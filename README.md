@@ -68,3 +68,5 @@
 # day4 lesson (21-08-2023)
 - registry
 - file handling
+- view computer processing apps
+- open app by commands
